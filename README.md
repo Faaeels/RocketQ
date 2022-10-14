@@ -19,3 +19,12 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias/serviços:
 - [x] Heroku;
 - [x] Figma;
 
+
+# User Experience
+
+
+
+https://user-images.githubusercontent.com/80011781/195943683-b134691d-28e4-4adf-8433-4b4cb920c4c4.mp4
+
+
+
